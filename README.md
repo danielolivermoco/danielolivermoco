@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou Daniel de Oliveira
+### Hi there 👋 Eu sou Daniel de Oliveira Moço
 
 Sou um Tecnólogo em Petróleo e Gás em transição de carreira para o mundo do Desenvolvimento Web. Atualmente estou focado como Programador Front-End, mas estou na busca de expandir minhas habilidades através do curso DevClub Full Stack Pro através da Instituição DevClub.
 <br>
@@ -18,9 +18,7 @@ Tecnologias
 
 Conecte-se comigo:
 <p>
-  <a href="https://www.linkedin.com/in/daniel-mo%C3%A7o-88b1b9246" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"
- <a/>
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://instagram.com/daniel.oliveiramoco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:danielmoco10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <p/>
